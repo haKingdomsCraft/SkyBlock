@@ -3,4 +3,4 @@ description: A powerful core for SkyBlock servers
 author: TrexCraft Devs
 main: SkyBlock\SkyBlock
 version: 2.0.0
-api: [4.0.0]
+api: [4.0.0, 4.0.1]
