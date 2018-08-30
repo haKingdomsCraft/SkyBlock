@@ -1,7 +1,6 @@
 name: SkyBlock
 description: A powerful core for SkyBlock servers
-author: GiantQuartz
-website: twitter.com/GiantQuartz
+author: TrexCraft Devs
 main: SkyBlock\SkyBlock
-version: 1.0.0
-api: [3.0.0]
+version: 2.0.0
+api: [4.0.0]
